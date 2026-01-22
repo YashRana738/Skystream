@@ -1,19 +1,19 @@
 [
     {
-        "id": "com.luke.anichi.provide",
-        "name": "Anichi Plus",
-        "internalName": "anichi_base",
+        "id": "com.luke.m.yts",
+        "name": "YTS",
+        "internalName": "YTS",
         "version": 1,
         "authors": [
-            "ohio"
+            "Luke"
         ],
-        "description": "Anichi Provider",
+        "description": "YTS Provider",
         "language": "en",
         "tvTypes": [
             "Movie"
         ],
         "baseUrl": "MAIN_URL",
         "iconUrl": "",
-        "url": "https://raw.githubusercontent.com/akashdh11/YashRana738/Skystream/blob/main/plugin/anichi.sky"
+        "url": "https://raw.githubusercontent.com/YashRana738/Skystream/refs/heads/main/plugin/yts.sky"
     }
 ]
