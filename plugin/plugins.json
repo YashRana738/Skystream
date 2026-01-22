@@ -1,0 +1,19 @@
+[
+    {
+        "id": "com.luke.anichi.provide",
+        "name": "Anichi Plus",
+        "internalName": "anichi_base",
+        "version": 1,
+        "authors": [
+            "ohio"
+        ],
+        "description": "Anichi Provider",
+        "language": "en",
+        "tvTypes": [
+            "Movie"
+        ],
+        "baseUrl": "MAIN_URL",
+        "iconUrl": "",
+        "url": "https://raw.githubusercontent.com/akashdh11/YashRana738/Skystream/blob/main/plugin/anichi.sky"
+    }
+]

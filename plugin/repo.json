@@ -1,0 +1,9 @@
+{
+    "name": "luke Repository",
+    "id": "com.luke",
+    "description": "SkyStream plugins repository",
+    "manifestVersion": 1,
+    "pluginLists": [
+        "https://raw.githubusercontent.com/akashdh11/YashRana738/Skystream/blob/main/plugin/plugins.json"
+    ]
+}
